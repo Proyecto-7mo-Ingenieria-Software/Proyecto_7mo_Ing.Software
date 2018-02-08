@@ -1,0 +1,2 @@
+Este es un proyecto desarrollado por Andres Reinoso, David Taday y Alex Sandoval cuyo fin es el ilustrar la programación de un lector biométrico en lenguaje Java.
+
